@@ -1,0 +1,17 @@
+{
+    "consumed": [],
+    "fridge": [
+        {
+            "name": "cheese",
+            "location": "fridge"
+        },
+        {
+            "name": "ham",
+            "location": "fridge"
+        }
+    ],
+    "pantry": [],
+    "wasted": [],
+    "name": "My stock",
+    "freezer": []
+}
